@@ -1,4 +1,4 @@
-# ✈️ British Airways Virtual Internship – Customer Booking Prediction
+# ✈British Airways Virtual Internship – Customer Booking Prediction
 
 This project is part of the **British Airways Data Science Virtual Experience** on Forage. The objective was to analyze customer booking behavior and build a predictive model that can determine whether a user will complete their booking.
 
