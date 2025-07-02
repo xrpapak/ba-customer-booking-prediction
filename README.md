@@ -4,7 +4,7 @@ This project is part of the **British Airways Data Science Virtual Experience** 
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 - Predict whether a customer will complete a flight booking based on behavioral, demographic, and transactional data.
 - Utilize machine learning to extract actionable insights and enhance the optimization of marketing and retention strategies.
