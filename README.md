@@ -88,4 +88,4 @@ This project is part of the **British Airways Data Science Virtual Internship** 
 
 ## Let's Connect
 
-If you're interested in collaborating or have any questions, feel free to connect via [LinkedIn](https://linkedin.com/in/your-profile) or check more of my work on [GitHub](https://github.com/your-profile).
+If you're interested in collaborating or have any questions, feel free to connect via [LinkedIn](https://linkedin.com/in/christos-papakostas) or check more of my work on [GitHub](https://github.com/xrpapak).
