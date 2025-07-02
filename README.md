@@ -68,7 +68,6 @@ The dataset contains >50,000 anonymized booking records with features such as:
 |------|-------------|
 | `British_Airways_Virtual_Internship.ipynb` | Full Python notebook (EDA, modeling, evaluation) |
 | `BA - Task 2 - Presentation.pptx` | PowerPoint with methodology, charts, and recommendations |
-| `ba_presentation.pdf` | Animated presentation converted to PDF |
 | `British_Airways_Virtual_Internship.ipynb - Colab.pdf` | PDF export of the full notebook |
 
 ---
@@ -77,7 +76,6 @@ The dataset contains >50,000 anonymized booking records with features such as:
 
 - **Python 3** – pandas, scikit-learn, seaborn, matplotlib
 - **Google Colab** – notebook environment
-- **WeasyPrint** – convert HTML to PDF
 - **PowerPoint / HTML** – business presentations
 
 ---
